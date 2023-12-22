@@ -1,0 +1,26 @@
+{
+  "name": "strimingly",
+  "version": "1.0.0",
+  "description": "strimingly backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xetnopnawab/strimingly.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node.js",
+    "Express.js",
+    "Mongodb",
+    "Mongoose"
+  ],
+  "author": "Md Nawab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xetnopnawab/strimingly/issues"
+  },
+  "homepage": "https://github.com/xetnopnawab/strimingly#readme"
+}
