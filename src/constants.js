@@ -1,3 +1,3 @@
 //! Enums
 //DB-name
-export const DB_NAME= "strimingly"
+export const DB_NAME = "strimingly";

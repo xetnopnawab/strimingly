@@ -41,6 +41,6 @@ const videoSchema = new Schema(
   }
 );
 
-videoSchema.plugin(mongooseAggregatePaginate);
+videoSchema.plugin(mongooseAggregatePaginate); // before export use aggregation pipeline plugins
 
 export const Video = mongoose.model("Video", videoSchema);
